@@ -3,7 +3,7 @@
 laravelにて制作したブログです。
 
 # デモ
-[webサイトを見る](https://yasuko-laravelbrog.herokuapp.com/brog)
+[webサイトを見る]https://yasuko-laravelbrog.herokuapp.com/brog
 
 
 ![スクリーンショット](https://user-images.githubusercontent.com/84828867/180338183-172b7aa7-9381-4740-94c2-d20c5fcb910c.png)
