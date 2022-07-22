@@ -84,7 +84,7 @@ class BrogController extends Controller
     public function edit($id)
     {
         $brog = Brog::find($id);
-        return view('Brog.edit', ['brog' => $brog]);
+        return view('brog.edit', ['brog' => $brog]);
     }
 
     /**
