@@ -1,6 +1,6 @@
 # laravelphoto
 
-laravelにて制作したブログです。
+laravelにて制作したブログです。laravelbrogを基に制作した完全版です。
 
 # デモ
 [webサイトを見る]https://yasuko-laravelbrog.herokuapp.com/brog
@@ -13,6 +13,8 @@ laravelにて制作したブログです。
 
 # 使用言語
 HTML, CSS, PHP, JavaScript
+Laravelのバージョン指定とBootstrapの導入作業が大変でした。
+
 
  ## インストール方法
  このままブラウザで開くと閲覧できます。
