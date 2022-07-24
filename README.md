@@ -11,8 +11,8 @@ laravelにて制作したブログです。laravelbrogを基に制作した完�
 
 
 
-# 使用言語
-HTML, CSS, PHP, JavaScript
+# 使用言語、データベース
+HTML, CSS, PHP, JavaScript, MySQL
 Laravelのバージョン指定とBootstrapの導入作業が大変でした。
 
 
