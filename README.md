@@ -13,6 +13,13 @@ laravelにて制作したブログです。laravelbrogを基に制作した完�
 
 # 使用言語、データベース
 HTML, CSS, PHP, JavaScript, MySQL
+
+
+# 制作目的
+プライベートで使用するアプリケーションに興味があったため制作しました。
+
+
+# 苦労した点
 Laravelのバージョン指定とBootstrapの導入作業が大変でした。
 
 
